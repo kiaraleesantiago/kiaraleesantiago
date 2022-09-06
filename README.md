@@ -1,5 +1,7 @@
-### Hi, I'm Kiaralee 👋🏽
-### 💬 Ask me about ...
+# Hi, I'm Kiaralee 👋🏽
+<!--
+
+## 💬 Ask me about ...
 
 <!--
 **kikitechs/kikitechs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

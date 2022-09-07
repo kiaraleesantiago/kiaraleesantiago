@@ -1,9 +1,10 @@
 # Hi, I'm Kiaralee 👋🏽💻🖤
 
-## 💬 Github COMING SOON ...
+## I am a Software Engineer 💻
+In the making Data Engineer ⌨️
 
 <!--
-**kikitechs/kikitechs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kiaraleesantiago/kiaraleesantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

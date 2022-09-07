@@ -1,5 +1,5 @@
 # Hi, I'm Kiaralee 👋🏽
- - Pronouns: She/Her 🌈
+ - Pronouns: She/Her 
  - I am a Software Engineer 💻
  - In The Making Data Engineer ⌨️ 
 

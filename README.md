@@ -1,4 +1,4 @@
-# Hi, I'm Kiaralee 👋🏽
+# Hi, I'm Kiaralee 👋🏽💻🖤
 
 ## 💬 Github COMING SOON ...
 

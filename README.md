@@ -1,5 +1,4 @@
 # Hi, I'm Kiaralee 👋🏽
-About Me: 🖤 Tech Mentor 💣 Health Coach 🌃 City Lover
  - Pronouns: She/Her 🌈
  - I am a Software Engineer 💻
  - In The Making Data Engineer ⌨️ 

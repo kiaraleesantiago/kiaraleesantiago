@@ -1,7 +1,7 @@
-# Hi, I'm Kiaralee 👋🏽💻🖤
-
-## I am a Software Engineer 💻
-In the making Data Engineer ⌨️
+# Hi, I'm Kiaralee 👋🏽
+ - Pronouns: She/Her 🖤
+ - I am a Software Engineer 💻
+ - In The Making Data Engineer ⌨️
 
 <!--
 **kiaraleesantiago/kiaraleesantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
